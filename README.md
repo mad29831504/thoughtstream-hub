@@ -327,7 +327,7 @@ Built to preserve meaning, structure, and recoverable context under compression.
 
 - **Website:** https://soultechlabs.net
 - **Email:** soultechlabs@gmail.com
-- **X:** @SoulTechLabs
+- **X:** @madchris2983
 
 ---
 
